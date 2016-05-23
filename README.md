@@ -1,7 +1,7 @@
 # Configuracion de Gulp
 
 Configucarion basica de Gulp, donde podemos monitorizar archivos **JS**, **CSS**, **IMG**.
-Tambien transforma nuestro codigo de ES6 y React al compatible con los navegadores actuales
+Tambien transforma nuestro codigo ES6 y React a ES5
 
 ## Instalacion del proyecto
 1. Ejecutamos el comando **npm run install**, con este comando instalamos Gulp, globalmente en nuestro sistema.
